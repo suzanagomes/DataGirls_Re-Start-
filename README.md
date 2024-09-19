@@ -36,6 +36,12 @@ O questionário foi dividido em 8 partes:
 **Parte 7:** Conhecimentos em Análise de Dados/DA  
 **Parte 8:** Conhecimentos em Ciências de Dados/DS  
 
+
+## ETL e Análises
+
+O processo de ETL e as análises em python realizadas neste projeto podem ser encontrados neste notebook: [Desafio_final_Data_Girls_final.ipynb](link_do_seu_colab)
+
+
 ## Software and tools
 
 [![Google Colab Badge](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) 
